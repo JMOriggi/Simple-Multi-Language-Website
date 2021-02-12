@@ -4,7 +4,7 @@ Simple static website, no need of server back-end because only leverage on clien
 
 Even with simple client side programming, this website offer a multi-language switch feature, only using simple JS scripts.
 
-The web-site is live at ![link](http://onlifesolutions.com)
+The web-site is live at [link](http://onlifesolutions.com)
 
 ## Features
 - Responsive, desktop-mobile
