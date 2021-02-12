@@ -4,8 +4,11 @@ Simple static website, no need of server back-end because only leverage on clien
 
 Ideal for fast plug-in into a host without the need of configurations.
 
+The web-site is live at [!link](http://onlifesolutions.com)
+
 ## Features
 - Responsive, desktop-mobile
 - Only client side code
 - Multi-page
-- Dynamic language change (also client side)
+- Dynamic language change
+
